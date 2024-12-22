@@ -1,0 +1,655 @@
+2024-12-10 09:53:28.187 +05:30 [INF] Now listening on: https://localhost:7101
+2024-12-10 09:53:28.211 +05:30 [INF] Now listening on: http://localhost:5100
+2024-12-10 09:53:28.346 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-10 09:53:28.356 +05:30 [INF] Hosting environment: Development
+2024-12-10 09:53:28.358 +05:30 [INF] Content root path: C:\Users\madhupriya.r\Documents\TaskManager\task-manager-madhupriya340\TaskManagerBE_Dotnet_Dapper
+2024-12-10 09:53:43.295 +05:30 [INF] Employee Controller info started
+2024-12-10 09:53:43.312 +05:30 [INF] Received request to fetch all employees.
+2024-12-10 09:53:43.321 +05:30 [INF] Fetching all employee records.
+2024-12-10 09:53:44.411 +05:30 [INF] Successfully fetched 9 employees.
+2024-12-10 09:53:44.418 +05:30 [INF] Successfully fetched employee records.
+2024-12-10 09:59:24.312 +05:30 [INF] Now listening on: https://localhost:7101
+2024-12-10 09:59:24.339 +05:30 [INF] Now listening on: http://localhost:5100
+2024-12-10 09:59:24.567 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-10 09:59:24.570 +05:30 [INF] Hosting environment: Development
+2024-12-10 09:59:24.573 +05:30 [INF] Content root path: C:\Users\madhupriya.r\Documents\TaskManager\task-manager-madhupriya340\TaskManagerBE_Dotnet_Dapper
+2024-12-10 10:04:07.175 +05:30 [INF] Now listening on: https://localhost:7101
+2024-12-10 10:04:07.191 +05:30 [INF] Now listening on: http://localhost:5100
+2024-12-10 10:04:07.374 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-10 10:04:07.377 +05:30 [INF] Hosting environment: Development
+2024-12-10 10:04:07.381 +05:30 [INF] Content root path: C:\Users\madhupriya.r\Documents\TaskManager\task-manager-madhupriya340\TaskManagerBE_Dotnet_Dapper
+2024-12-10 11:02:30.914 +05:30 [INF] Employee Controller info started
+2024-12-10 11:02:30.933 +05:30 [INF] Received request to fetch all employees.
+2024-12-10 11:02:30.941 +05:30 [INF] Fetching all employee records.
+2024-12-10 11:02:32.011 +05:30 [INF] Successfully fetched [{"id":1,"empName":"madhu","empId":"P-1000","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":2,"empName":"Nikhi","empId":"P-1001","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":3,"empName":"nivi","empId":"P-1002","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":4,"empName":"priya","empId":"P-1003","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":5,"empName":"cherry","empId":"P-1004","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":6,"empName":"janu","empId":"P-1005","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":7,"empName":"neelima","empId":"P-1006","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":8,"empName":"Neeraja","empId":"P-1007","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":9,"empName":"hema","empId":"P-1008","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"}] employees.
+2024-12-10 11:02:32.030 +05:30 [INF] Successfully fetched employee records.
+2024-12-10 11:11:20.885 +05:30 [INF] Now listening on: https://localhost:7101
+2024-12-10 11:11:20.905 +05:30 [INF] Now listening on: http://localhost:5100
+2024-12-10 11:11:21.070 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-10 11:11:21.073 +05:30 [INF] Hosting environment: Development
+2024-12-10 11:11:21.075 +05:30 [INF] Content root path: C:\Users\madhupriya.r\Documents\TaskManager\task-manager-madhupriya340\TaskManagerBE_Dotnet_Dapper
+2024-12-10 11:11:33.364 +05:30 [INF] Employee Controller info started
+2024-12-10 11:11:33.523 +05:30 [INF] Received request to create employee with details: {"empName":"MP","$type":"CreateEmployeeDto"}
+2024-12-10 11:11:33.543 +05:30 [INF] Adding new employee with details: TaskManagerDapper.Dtos.CreateEmployeeDto
+2024-12-10 11:11:34.982 +05:30 [INF] Successfully created new employee with ID: P-1009
+2024-12-10 11:11:34.987 +05:30 [INF] Successfully created employee with ID: P-1009.
+2024-12-10 11:17:04.177 +05:30 [INF] Now listening on: https://localhost:7101
+2024-12-10 11:17:04.197 +05:30 [INF] Now listening on: http://localhost:5100
+2024-12-10 11:17:04.361 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-10 11:17:04.367 +05:30 [INF] Hosting environment: Development
+2024-12-10 11:17:04.371 +05:30 [INF] Content root path: C:\Users\madhupriya.r\Documents\TaskManager\task-manager-madhupriya340\TaskManagerBE_Dotnet_Dapper
+2024-12-10 11:17:13.215 +05:30 [INF] Received request to fetch all tasks.
+2024-12-10 11:17:13.251 +05:30 [INF] Fetching the all tasks.
+2024-12-10 11:17:14.445 +05:30 [INF] Successfully fetched all tasks.
+2024-12-10 11:18:07.386 +05:30 [INF] Now listening on: https://localhost:7101
+2024-12-10 11:18:07.407 +05:30 [INF] Now listening on: http://localhost:5100
+2024-12-10 11:18:07.549 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-10 11:18:07.551 +05:30 [INF] Hosting environment: Development
+2024-12-10 11:18:07.553 +05:30 [INF] Content root path: C:\Users\madhupriya.r\Documents\TaskManager\task-manager-madhupriya340\TaskManagerBE_Dotnet_Dapper
+2024-12-10 11:18:46.439 +05:30 [INF] Received request to fetch task by task number: TASK-6
+2024-12-10 11:18:46.448 +05:30 [INF] Fetching all tasks with task number TASK-6
+2024-12-10 15:51:49.583 +05:30 [INF] Now listening on: https://localhost:7101
+2024-12-10 15:51:49.609 +05:30 [INF] Now listening on: http://localhost:5100
+2024-12-10 15:51:49.887 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-10 15:51:49.915 +05:30 [INF] Hosting environment: Development
+2024-12-10 15:51:49.918 +05:30 [INF] Content root path: C:\Users\madhupriya.r\Documents\TaskManager\task-manager-madhupriya340\TaskManagerBE_Dotnet_Dapper
+2024-12-10 15:51:50.663 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/swagger/index.html - null null
+2024-12-10 15:51:51.001 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/swagger/index.html - 200 null text/html;charset=utf-8 352.0916ms
+2024-12-10 15:51:51.028 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/_vs/browserLink - null null
+2024-12-10 15:51:51.028 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/_framework/aspnetcore-browser-refresh.js - null null
+2024-12-10 15:51:51.039 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 12.1431ms
+2024-12-10 15:51:51.079 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/_vs/browserLink - 200 null text/javascript; charset=UTF-8 51.908ms
+2024-12-10 15:51:51.156 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/swagger/v1/swagger.json - null null
+2024-12-10 15:51:51.192 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 36.7615ms
+2024-12-10 15:51:56.398 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/employee - null null
+2024-12-10 15:51:56.419 +05:30 [INF] Executing endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-10 15:51:56.511 +05:30 [INF] Route matched with {action = "GetAllEmployees", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllEmployees() on controller TaskManager.Controllers.EmployeeController (TaskManagerDapper).
+2024-12-10 15:51:56.813 +05:30 [INF] Employee Controller info started
+2024-12-10 15:51:56.825 +05:30 [INF] Received request to fetch all employees.
+2024-12-10 15:51:56.834 +05:30 [INF] Fetching all employee records.
+2024-12-10 15:51:58.773 +05:30 [INF] Successfully fetched [{"id":1,"empName":"madhu","empId":"P-1000","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":2,"empName":"Nikhi","empId":"P-1001","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":3,"empName":"nivi","empId":"P-1002","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":4,"empName":"priya","empId":"P-1003","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":5,"empName":"cherry","empId":"P-1004","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":6,"empName":"janu","empId":"P-1005","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":7,"empName":"neelima","empId":"P-1006","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":8,"empName":"Neeraja","empId":"P-1007","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":9,"empName":"hema","empId":"P-1008","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":11,"empName":"MP","empId":"P-1009","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"}] employees.
+2024-12-10 15:51:58.783 +05:30 [INF] Successfully fetched employee records.
+2024-12-10 15:51:58.813 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Models.Employee, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-10 15:51:58.880 +05:30 [INF] Executed action TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper) in 2352.1009ms
+2024-12-10 15:51:58.889 +05:30 [INF] Executed endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-10 15:51:58.896 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/employee - 200 null application/json; charset=utf-8 2497.829ms
+2024-12-10 16:03:30.074 +05:30 [INF] Now listening on: https://localhost:7101
+2024-12-10 16:03:30.108 +05:30 [INF] Now listening on: http://localhost:5100
+2024-12-10 16:03:30.513 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-10 16:03:30.517 +05:30 [INF] Hosting environment: Development
+2024-12-10 16:03:30.520 +05:30 [INF] Content root path: C:\Users\madhupriya.r\Documents\TaskManager\task-manager-madhupriya340\TaskManagerBE_Dotnet_Dapper
+2024-12-10 16:03:31.312 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/swagger/index.html - null null
+2024-12-10 16:03:31.608 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/swagger/index.html - 200 null text/html;charset=utf-8 305.8123ms
+2024-12-10 16:03:31.653 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/_vs/browserLink - null null
+2024-12-10 16:03:31.653 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/_framework/aspnetcore-browser-refresh.js - null null
+2024-12-10 16:03:31.663 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 10.6264ms
+2024-12-10 16:03:31.714 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/_vs/browserLink - 200 null text/javascript; charset=UTF-8 62.1365ms
+2024-12-10 16:03:31.792 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/swagger/v1/swagger.json - null null
+2024-12-10 16:03:31.827 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 35.8813ms
+2024-12-10 16:03:35.836 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/employee - null null
+2024-12-10 16:03:35.859 +05:30 [INF] Executing endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-10 16:03:35.943 +05:30 [INF] Route matched with {action = "GetAllEmployees", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllEmployees() on controller TaskManager.Controllers.EmployeeController (TaskManagerDapper).
+2024-12-10 16:03:36.245 +05:30 [INF] Employee Controller info started
+2024-12-10 16:03:36.256 +05:30 [INF] Received request to fetch all employees.
+2024-12-10 16:03:36.264 +05:30 [INF] Fetching all employee records.
+2024-12-10 16:03:37.205 +05:30 [INF] Successfully fetched [{"id":1,"empName":"madhu","empId":"P-1000","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":2,"empName":"Nikhi","empId":"P-1001","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":3,"empName":"nivi","empId":"P-1002","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":4,"empName":"priya","empId":"P-1003","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":5,"empName":"cherry","empId":"P-1004","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":6,"empName":"janu","empId":"P-1005","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":7,"empName":"neelima","empId":"P-1006","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":8,"empName":"Neeraja","empId":"P-1007","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":9,"empName":"hema","empId":"P-1008","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":11,"empName":"MP","empId":"P-1009","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"}] employees.
+2024-12-10 16:03:37.215 +05:30 [INF] Successfully fetched employee records.
+2024-12-10 16:03:37.240 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Models.Employee, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-10 16:03:37.306 +05:30 [INF] Executed action TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper) in 1346.6968ms
+2024-12-10 16:03:37.313 +05:30 [INF] Executed endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-10 16:03:37.321 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/employee - 200 null application/json; charset=utf-8 1485.9477ms
+2024-12-11 11:02:38.231 +05:30 [INF] Now listening on: https://localhost:7101
+2024-12-11 11:02:38.249 +05:30 [INF] Now listening on: http://localhost:5100
+2024-12-11 11:02:38.412 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-11 11:02:38.415 +05:30 [INF] Hosting environment: Development
+2024-12-11 11:02:38.418 +05:30 [INF] Content root path: C:\Users\madhupriya.r\Documents\TaskManager\task-manager-madhupriya340\TaskManagerBE_Dotnet_Dapper
+2024-12-11 11:02:38.864 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/swagger/index.html - null null
+2024-12-11 11:02:39.310 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/swagger/index.html - 200 null text/html;charset=utf-8 454.1564ms
+2024-12-11 11:02:39.381 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/_framework/aspnetcore-browser-refresh.js - null null
+2024-12-11 11:02:39.388 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/_vs/browserLink - null null
+2024-12-11 11:02:39.417 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 25.936ms
+2024-12-11 11:02:39.461 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/_vs/browserLink - 200 null text/javascript; charset=UTF-8 73.4619ms
+2024-12-11 11:02:39.614 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/swagger/v1/swagger.json - null null
+2024-12-11 11:02:39.654 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 40.0481ms
+2024-12-11 11:02:46.013 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task - null null
+2024-12-11 11:02:46.033 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:02:46.107 +05:30 [INF] Route matched with {action = "GetAllTasks", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllTasks() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:02:46.402 +05:30 [INF] Received request to fetch all tasks.
+2024-12-11 11:02:46.414 +05:30 [INF] Fetching the all tasks.
+2024-12-11 11:02:47.579 +05:30 [INF] Successfully fetched all tasks.
+2024-12-11 11:02:47.598 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-12-11 11:02:47.620 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper) in 1494.2161ms
+2024-12-11 11:02:47.628 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:02:47.637 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task - 200 0 null 1624.1975ms
+2024-12-11 11:04:40.766 +05:30 [INF] Now listening on: https://localhost:7101
+2024-12-11 11:04:40.792 +05:30 [INF] Now listening on: http://localhost:5100
+2024-12-11 11:04:40.955 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-11 11:04:40.958 +05:30 [INF] Hosting environment: Development
+2024-12-11 11:04:40.960 +05:30 [INF] Content root path: C:\Users\madhupriya.r\Documents\TaskManager\task-manager-madhupriya340\TaskManagerBE_Dotnet_Dapper
+2024-12-11 11:04:41.726 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/swagger/index.html - null null
+2024-12-11 11:04:42.175 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/swagger/index.html - 200 null text/html;charset=utf-8 464.3082ms
+2024-12-11 11:04:42.234 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/_vs/browserLink - null null
+2024-12-11 11:04:42.234 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/_framework/aspnetcore-browser-refresh.js - null null
+2024-12-11 11:04:42.272 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 37.6627ms
+2024-12-11 11:04:42.356 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/_vs/browserLink - 200 null text/javascript; charset=UTF-8 122.8335ms
+2024-12-11 11:04:42.484 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/swagger/v1/swagger.json - null null
+2024-12-11 11:04:42.540 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 56.7869ms
+2024-12-11 11:04:47.793 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task - null null
+2024-12-11 11:04:47.819 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:04:47.931 +05:30 [INF] Route matched with {action = "GetAllTasks", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllTasks() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:04:48.320 +05:30 [INF] Received request to fetch all tasks.
+2024-12-11 11:04:48.332 +05:30 [INF] Fetching the all tasks.
+2024-12-11 11:04:49.236 +05:30 [INF] Successfully fetched the all tasks.[{"id":16,"taskNumber":"TASK-6","title":"string","description":"string","status":"Completed","priority":"string","taskDueDate":"2024-12-04T00:00:00.0000000","employeeid":2,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":20,"taskNumber":"TASK-9","title":"string","description":"string","status":"Yet To Start","priority":"string","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":1,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":21,"taskNumber":"TASK-10","title":"string","description":"string","status":"Yet To Start","priority":"string","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":1,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":22,"taskNumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":17,"taskNumber":"TASK-7","title":"string","description":"Need to update","status":"Blocker","priority":"string","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":6,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":23,"taskNumber":"TASK-12","title":"title","description":"string","status":"Yet To Start","priority":"high","taskDueDate":"2024-12-08T00:00:00.0000000","employeeid":6,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":24,"taskNumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","taskDueDate":"2024-12-09T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"}]
+2024-12-11 11:04:49.399 +05:30 [INF] Successfully fetched all tasks.
+2024-12-11 11:04:49.417 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-12-11 11:04:49.431 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper) in 1421.511ms
+2024-12-11 11:04:49.438 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:04:49.444 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task - 200 0 null 1651.1547ms
+2024-12-11 11:06:21.024 +05:30 [INF] Now listening on: https://localhost:7101
+2024-12-11 11:06:21.044 +05:30 [INF] Now listening on: http://localhost:5100
+2024-12-11 11:06:21.178 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-11 11:06:21.181 +05:30 [INF] Hosting environment: Development
+2024-12-11 11:06:21.213 +05:30 [INF] Content root path: C:\Users\madhupriya.r\Documents\TaskManager\task-manager-madhupriya340\TaskManagerBE_Dotnet_Dapper
+2024-12-11 11:06:22.087 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/swagger/index.html - null null
+2024-12-11 11:06:22.437 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/swagger/index.html - 200 null text/html;charset=utf-8 357.5174ms
+2024-12-11 11:06:22.519 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/_vs/browserLink - null null
+2024-12-11 11:06:22.519 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/_framework/aspnetcore-browser-refresh.js - null null
+2024-12-11 11:06:22.531 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 10.5667ms
+2024-12-11 11:06:22.577 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/_vs/browserLink - 200 null text/javascript; charset=UTF-8 58.2337ms
+2024-12-11 11:06:22.863 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/swagger/v1/swagger.json - null null
+2024-12-11 11:06:22.918 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 55.6231ms
+2024-12-11 11:06:28.034 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task - null null
+2024-12-11 11:06:28.058 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:06:28.133 +05:30 [INF] Route matched with {action = "GetAllTasks", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllTasks() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:06:28.462 +05:30 [INF] Received request to fetch all tasks.
+2024-12-11 11:06:28.473 +05:30 [INF] Fetching the all tasks.
+2024-12-11 11:06:29.331 +05:30 [INF] Successfully fetched the all tasks.[{"id":16,"taskNumber":"TASK-6","title":"string","description":"string","status":"Completed","priority":"string","taskDueDate":"2024-12-04T00:00:00.0000000","employeeid":2,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":20,"taskNumber":"TASK-9","title":"string","description":"string","status":"Yet To Start","priority":"string","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":1,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":21,"taskNumber":"TASK-10","title":"string","description":"string","status":"Yet To Start","priority":"string","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":1,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":22,"taskNumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":17,"taskNumber":"TASK-7","title":"string","description":"Need to update","status":"Blocker","priority":"string","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":6,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":23,"taskNumber":"TASK-12","title":"title","description":"string","status":"Yet To Start","priority":"high","taskDueDate":"2024-12-08T00:00:00.0000000","employeeid":6,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":24,"taskNumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","taskDueDate":"2024-12-09T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"}]
+2024-12-11 11:06:29.468 +05:30 [INF] Mapping each task to employee task {"id":16,"tasknumber":"TASK-6","title":"string","description":"string","status":"Completed","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1001","$type":"GetTasksDto"}
+2024-12-11 11:06:29.483 +05:30 [INF] Mapping each task to employee task {"id":20,"tasknumber":"TASK-9","title":"string","description":"string","status":"Yet To Start","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1000","$type":"GetTasksDto"}
+2024-12-11 11:06:29.494 +05:30 [INF] Mapping each task to employee task {"id":21,"tasknumber":"TASK-10","title":"string","description":"string","status":"Yet To Start","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1000","$type":"GetTasksDto"}
+2024-12-11 11:06:29.503 +05:30 [INF] Mapping each task to employee task {"id":22,"tasknumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:06:29.512 +05:30 [INF] Mapping each task to employee task {"id":17,"tasknumber":"TASK-7","title":"string","description":"Need to update","status":"Blocker","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1005","$type":"GetTasksDto"}
+2024-12-11 11:06:29.524 +05:30 [INF] Mapping each task to employee task {"id":23,"tasknumber":"TASK-12","title":"title","description":"string","status":"Yet To Start","priority":"high","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1005","$type":"GetTasksDto"}
+2024-12-11 11:06:29.533 +05:30 [INF] Mapping each task to employee task {"id":24,"tasknumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:06:29.539 +05:30 [INF] Successfully fetched all tasks.
+2024-12-11 11:06:29.560 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-12-11 11:06:29.578 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper) in 1429.5428ms
+2024-12-11 11:06:29.585 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:06:29.593 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task - 200 0 null 1560.1214ms
+2024-12-11 11:07:49.609 +05:30 [INF] Now listening on: https://localhost:7101
+2024-12-11 11:07:49.649 +05:30 [INF] Now listening on: http://localhost:5100
+2024-12-11 11:07:49.830 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-11 11:07:49.834 +05:30 [INF] Hosting environment: Development
+2024-12-11 11:07:49.836 +05:30 [INF] Content root path: C:\Users\madhupriya.r\Documents\TaskManager\task-manager-madhupriya340\TaskManagerBE_Dotnet_Dapper
+2024-12-11 11:07:50.504 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/swagger/index.html - null null
+2024-12-11 11:07:50.806 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/swagger/index.html - 200 null text/html;charset=utf-8 318.0889ms
+2024-12-11 11:07:50.826 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/_framework/aspnetcore-browser-refresh.js - null null
+2024-12-11 11:07:50.841 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/_vs/browserLink - null null
+2024-12-11 11:07:50.840 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 13.2483ms
+2024-12-11 11:07:50.890 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/_vs/browserLink - 200 null text/javascript; charset=UTF-8 49.8717ms
+2024-12-11 11:07:51.072 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/swagger/v1/swagger.json - null null
+2024-12-11 11:07:51.117 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 45.3214ms
+2024-12-11 11:08:03.188 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task - null null
+2024-12-11 11:08:03.207 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:08:03.303 +05:30 [INF] Route matched with {action = "GetAllTasks", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllTasks() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:08:03.633 +05:30 [INF] Received request to fetch all tasks.
+2024-12-11 11:08:03.645 +05:30 [INF] Fetching the all tasks.
+2024-12-11 11:08:04.527 +05:30 [INF] Successfully fetched the all tasks.[{"id":16,"taskNumber":"TASK-6","title":"string","description":"string","status":"Completed","priority":"string","taskDueDate":"2024-12-04T00:00:00.0000000","employeeid":2,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":20,"taskNumber":"TASK-9","title":"string","description":"string","status":"Yet To Start","priority":"string","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":1,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":21,"taskNumber":"TASK-10","title":"string","description":"string","status":"Yet To Start","priority":"string","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":1,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":22,"taskNumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":17,"taskNumber":"TASK-7","title":"string","description":"Need to update","status":"Blocker","priority":"string","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":6,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":23,"taskNumber":"TASK-12","title":"title","description":"string","status":"Yet To Start","priority":"high","taskDueDate":"2024-12-08T00:00:00.0000000","employeeid":6,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":24,"taskNumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","taskDueDate":"2024-12-09T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"}]
+2024-12-11 11:08:04.651 +05:30 [INF] Mapping each task to employee task {"id":16,"tasknumber":"TASK-6","title":"string","description":"string","status":"Completed","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1001","$type":"GetTasksDto"}
+2024-12-11 11:08:04.663 +05:30 [INF] Mapping each task to employee task {"id":20,"tasknumber":"TASK-9","title":"string","description":"string","status":"Yet To Start","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1000","$type":"GetTasksDto"}
+2024-12-11 11:08:04.672 +05:30 [INF] Mapping each task to employee task {"id":21,"tasknumber":"TASK-10","title":"string","description":"string","status":"Yet To Start","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1000","$type":"GetTasksDto"}
+2024-12-11 11:08:04.681 +05:30 [INF] Mapping each task to employee task {"id":22,"tasknumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:08:04.687 +05:30 [INF] Mapping each task to employee task {"id":17,"tasknumber":"TASK-7","title":"string","description":"Need to update","status":"Blocker","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1005","$type":"GetTasksDto"}
+2024-12-11 11:08:04.695 +05:30 [INF] Mapping each task to employee task {"id":23,"tasknumber":"TASK-12","title":"title","description":"string","status":"Yet To Start","priority":"high","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1005","$type":"GetTasksDto"}
+2024-12-11 11:08:04.704 +05:30 [INF] Mapping each task to employee task {"id":24,"tasknumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:08:04.711 +05:30 [INF] Successfully fetched all tasks.
+2024-12-11 11:08:04.742 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Dtos.GetTasksDto, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:08:04.814 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper) in 1496.6731ms
+2024-12-11 11:08:04.820 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:08:04.826 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task - 200 null application/json; charset=utf-8 1638.107ms
+2024-12-11 11:08:22.389 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/employee - null null
+2024-12-11 11:08:22.389 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task - null null
+2024-12-11 11:08:22.392 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task/newTaskNumber - null null
+2024-12-11 11:08:22.409 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:08:22.409 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:08:22.409 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:08:22.425 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetNewTaskNumber (TaskManagerDapper)'
+2024-12-11 11:08:22.425 +05:30 [INF] Executing endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:08:22.425 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:08:22.438 +05:30 [INF] Route matched with {action = "GetAllTasks", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllTasks() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:08:22.446 +05:30 [INF] Received request to fetch all tasks.
+2024-12-11 11:08:22.450 +05:30 [INF] Fetching the all tasks.
+2024-12-11 11:08:22.456 +05:30 [INF] Successfully fetched the all tasks.[{"id":16,"taskNumber":"TASK-6","title":"string","description":"string","status":"Completed","priority":"string","taskDueDate":"2024-12-04T00:00:00.0000000","employeeid":2,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":20,"taskNumber":"TASK-9","title":"string","description":"string","status":"Yet To Start","priority":"string","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":1,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":21,"taskNumber":"TASK-10","title":"string","description":"string","status":"Yet To Start","priority":"string","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":1,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":22,"taskNumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":17,"taskNumber":"TASK-7","title":"string","description":"Need to update","status":"Blocker","priority":"string","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":6,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":23,"taskNumber":"TASK-12","title":"title","description":"string","status":"Yet To Start","priority":"high","taskDueDate":"2024-12-08T00:00:00.0000000","employeeid":6,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":24,"taskNumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","taskDueDate":"2024-12-09T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"}]
+2024-12-11 11:08:22.462 +05:30 [INF] Route matched with {action = "GetNewTaskNumber", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetNewTaskNumber() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:08:22.462 +05:30 [INF] Route matched with {action = "GetAllEmployees", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllEmployees() on controller TaskManager.Controllers.EmployeeController (TaskManagerDapper).
+2024-12-11 11:08:22.466 +05:30 [INF] Mapping each task to employee task {"id":16,"tasknumber":"TASK-6","title":"string","description":"string","status":"Completed","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1001","$type":"GetTasksDto"}
+2024-12-11 11:08:22.479 +05:30 [INF] Employee Controller info started
+2024-12-11 11:08:22.481 +05:30 [INF] Mapping each task to employee task {"id":20,"tasknumber":"TASK-9","title":"string","description":"string","status":"Yet To Start","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1000","$type":"GetTasksDto"}
+2024-12-11 11:08:22.490 +05:30 [INF] Mapping each task to employee task {"id":21,"tasknumber":"TASK-10","title":"string","description":"string","status":"Yet To Start","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1000","$type":"GetTasksDto"}
+2024-12-11 11:08:22.493 +05:30 [INF] Received request to fetch all employees.
+2024-12-11 11:08:22.502 +05:30 [INF] Mapping each task to employee task {"id":22,"tasknumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:08:22.508 +05:30 [INF] Fetching all employee records.
+2024-12-11 11:08:22.515 +05:30 [INF] Mapping each task to employee task {"id":17,"tasknumber":"TASK-7","title":"string","description":"Need to update","status":"Blocker","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1005","$type":"GetTasksDto"}
+2024-12-11 11:08:22.522 +05:30 [INF] Received request to get a new task number.
+2024-12-11 11:08:22.532 +05:30 [INF] Mapping each task to employee task {"id":23,"tasknumber":"TASK-12","title":"title","description":"string","status":"Yet To Start","priority":"high","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1005","$type":"GetTasksDto"}
+2024-12-11 11:08:22.547 +05:30 [INF] Fetching the new task number.
+2024-12-11 11:08:22.573 +05:30 [INF] Mapping each task to employee task {"id":24,"tasknumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:08:22.591 +05:30 [INF] Successfully fetched all tasks.
+2024-12-11 11:08:22.600 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Dtos.GetTasksDto, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:08:22.611 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper) in 167.8377ms
+2024-12-11 11:08:22.616 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:08:22.616 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task - null null
+2024-12-11 11:08:22.624 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task - 200 null application/json; charset=utf-8 234.6236ms
+2024-12-11 11:08:22.631 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:08:22.637 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:08:22.641 +05:30 [INF] Route matched with {action = "GetAllTasks", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllTasks() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:08:22.647 +05:30 [INF] Received request to fetch all tasks.
+2024-12-11 11:08:22.651 +05:30 [INF] Fetching the all tasks.
+2024-12-11 11:08:22.661 +05:30 [INF] Successfully fetched the all tasks.[{"id":16,"taskNumber":"TASK-6","title":"string","description":"string","status":"Completed","priority":"string","taskDueDate":"2024-12-04T00:00:00.0000000","employeeid":2,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":20,"taskNumber":"TASK-9","title":"string","description":"string","status":"Yet To Start","priority":"string","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":1,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":21,"taskNumber":"TASK-10","title":"string","description":"string","status":"Yet To Start","priority":"string","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":1,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":22,"taskNumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":17,"taskNumber":"TASK-7","title":"string","description":"Need to update","status":"Blocker","priority":"string","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":6,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":23,"taskNumber":"TASK-12","title":"title","description":"string","status":"Yet To Start","priority":"high","taskDueDate":"2024-12-08T00:00:00.0000000","employeeid":6,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":24,"taskNumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","taskDueDate":"2024-12-09T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"}]
+2024-12-11 11:08:22.670 +05:30 [INF] Mapping each task to employee task {"id":16,"tasknumber":"TASK-6","title":"string","description":"string","status":"Completed","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1001","$type":"GetTasksDto"}
+2024-12-11 11:08:22.677 +05:30 [INF] Mapping each task to employee task {"id":20,"tasknumber":"TASK-9","title":"string","description":"string","status":"Yet To Start","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1000","$type":"GetTasksDto"}
+2024-12-11 11:08:22.685 +05:30 [INF] Mapping each task to employee task {"id":21,"tasknumber":"TASK-10","title":"string","description":"string","status":"Yet To Start","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1000","$type":"GetTasksDto"}
+2024-12-11 11:08:22.694 +05:30 [INF] Mapping each task to employee task {"id":22,"tasknumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:08:22.703 +05:30 [INF] Mapping each task to employee task {"id":17,"tasknumber":"TASK-7","title":"string","description":"Need to update","status":"Blocker","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1005","$type":"GetTasksDto"}
+2024-12-11 11:08:22.712 +05:30 [INF] Mapping each task to employee task {"id":23,"tasknumber":"TASK-12","title":"title","description":"string","status":"Yet To Start","priority":"high","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1005","$type":"GetTasksDto"}
+2024-12-11 11:08:22.720 +05:30 [INF] Mapping each task to employee task {"id":24,"tasknumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:08:22.725 +05:30 [INF] Successfully fetched all tasks.
+2024-12-11 11:08:22.731 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Dtos.GetTasksDto, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:08:22.739 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper) in 92.7276ms
+2024-12-11 11:08:22.745 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:08:22.749 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task - null null
+2024-12-11 11:08:22.749 +05:30 [INF] Assigned new task number: TASK-14
+2024-12-11 11:08:22.756 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task - 200 null application/json; charset=utf-8 137.7564ms
+2024-12-11 11:08:22.765 +05:30 [INF] Generated new task number: TASK-14
+2024-12-11 11:08:22.760 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:08:22.783 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-12-11 11:08:22.792 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:08:22.792 +05:30 [INF] Successfully fetched [{"id":1,"empName":"madhu","empId":"P-1000","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":2,"empName":"Nikhi","empId":"P-1001","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":3,"empName":"nivi","empId":"P-1002","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":4,"empName":"priya","empId":"P-1003","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":5,"empName":"cherry","empId":"P-1004","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":6,"empName":"janu","empId":"P-1005","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":7,"empName":"neelima","empId":"P-1006","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":8,"empName":"Neeraja","empId":"P-1007","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":9,"empName":"hema","empId":"P-1008","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":11,"empName":"MP","empId":"P-1009","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"}] employees.
+2024-12-11 11:08:22.804 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetNewTaskNumber (TaskManagerDapper) in 333.0315ms
+2024-12-11 11:08:22.808 +05:30 [INF] Route matched with {action = "GetAllTasks", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllTasks() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:08:22.814 +05:30 [INF] Successfully fetched employee records.
+2024-12-11 11:08:22.820 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task/newTaskNumber - null null
+2024-12-11 11:08:22.830 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Models.Employee, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:08:22.820 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetNewTaskNumber (TaskManagerDapper)'
+2024-12-11 11:08:22.827 +05:30 [INF] Received request to fetch all tasks.
+2024-12-11 11:08:22.854 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task/newTaskNumber - 200 null text/plain; charset=utf-8 465.6064ms
+2024-12-11 11:08:22.865 +05:30 [INF] Fetching the all tasks.
+2024-12-11 11:08:22.865 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:08:22.884 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetNewTaskNumber (TaskManagerDapper)'
+2024-12-11 11:08:22.895 +05:30 [INF] Route matched with {action = "GetNewTaskNumber", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetNewTaskNumber() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:08:22.899 +05:30 [INF] Successfully fetched the all tasks.[{"id":16,"taskNumber":"TASK-6","title":"string","description":"string","status":"Completed","priority":"string","taskDueDate":"2024-12-04T00:00:00.0000000","employeeid":2,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":20,"taskNumber":"TASK-9","title":"string","description":"string","status":"Yet To Start","priority":"string","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":1,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":21,"taskNumber":"TASK-10","title":"string","description":"string","status":"Yet To Start","priority":"string","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":1,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":22,"taskNumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":17,"taskNumber":"TASK-7","title":"string","description":"Need to update","status":"Blocker","priority":"string","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":6,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":23,"taskNumber":"TASK-12","title":"title","description":"string","status":"Yet To Start","priority":"high","taskDueDate":"2024-12-08T00:00:00.0000000","employeeid":6,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":24,"taskNumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","taskDueDate":"2024-12-09T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"}]
+2024-12-11 11:08:22.905 +05:30 [INF] Received request to get a new task number.
+2024-12-11 11:08:22.912 +05:30 [INF] Fetching the new task number.
+2024-12-11 11:08:22.923 +05:30 [INF] Mapping each task to employee task {"id":16,"tasknumber":"TASK-6","title":"string","description":"string","status":"Completed","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1001","$type":"GetTasksDto"}
+2024-12-11 11:08:22.934 +05:30 [INF] Assigned new task number: TASK-14
+2024-12-11 11:08:22.934 +05:30 [INF] Mapping each task to employee task {"id":20,"tasknumber":"TASK-9","title":"string","description":"string","status":"Yet To Start","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1000","$type":"GetTasksDto"}
+2024-12-11 11:08:22.943 +05:30 [INF] Generated new task number: TASK-14
+2024-12-11 11:08:22.952 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-12-11 11:08:22.952 +05:30 [INF] Mapping each task to employee task {"id":21,"tasknumber":"TASK-10","title":"string","description":"string","status":"Yet To Start","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1000","$type":"GetTasksDto"}
+2024-12-11 11:08:22.959 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetNewTaskNumber (TaskManagerDapper) in 57.0491ms
+2024-12-11 11:08:22.966 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetNewTaskNumber (TaskManagerDapper)'
+2024-12-11 11:08:22.972 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task/newTaskNumber - 200 null text/plain; charset=utf-8 152.0863ms
+2024-12-11 11:08:22.975 +05:30 [INF] Executed action TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper) in 498.8443ms
+2024-12-11 11:08:22.972 +05:30 [INF] Mapping each task to employee task {"id":22,"tasknumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:08:22.984 +05:30 [INF] Executed endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:08:22.993 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/employee - null null
+2024-12-11 11:08:22.997 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/employee - 200 null application/json; charset=utf-8 607.7683ms
+2024-12-11 11:08:23.004 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:08:23.011 +05:30 [INF] Mapping each task to employee task {"id":17,"tasknumber":"TASK-7","title":"string","description":"Need to update","status":"Blocker","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1005","$type":"GetTasksDto"}
+2024-12-11 11:08:23.017 +05:30 [INF] Executing endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:08:23.023 +05:30 [INF] Route matched with {action = "GetAllEmployees", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllEmployees() on controller TaskManager.Controllers.EmployeeController (TaskManagerDapper).
+2024-12-11 11:08:23.030 +05:30 [INF] Mapping each task to employee task {"id":23,"tasknumber":"TASK-12","title":"title","description":"string","status":"Yet To Start","priority":"high","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1005","$type":"GetTasksDto"}
+2024-12-11 11:08:23.031 +05:30 [INF] Employee Controller info started
+2024-12-11 11:08:23.040 +05:30 [INF] Received request to fetch all employees.
+2024-12-11 11:08:23.046 +05:30 [INF] Fetching all employee records.
+2024-12-11 11:08:23.050 +05:30 [INF] Mapping each task to employee task {"id":24,"tasknumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:08:23.056 +05:30 [INF] Successfully fetched all tasks.
+2024-12-11 11:08:23.064 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Dtos.GetTasksDto, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:08:23.068 +05:30 [INF] Successfully fetched [{"id":1,"empName":"madhu","empId":"P-1000","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":2,"empName":"Nikhi","empId":"P-1001","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":3,"empName":"nivi","empId":"P-1002","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":4,"empName":"priya","empId":"P-1003","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":5,"empName":"cherry","empId":"P-1004","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":6,"empName":"janu","empId":"P-1005","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":7,"empName":"neelima","empId":"P-1006","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":8,"empName":"Neeraja","empId":"P-1007","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":9,"empName":"hema","empId":"P-1008","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":11,"empName":"MP","empId":"P-1009","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"}] employees.
+2024-12-11 11:08:23.079 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper) in 251.5565ms
+2024-12-11 11:08:23.079 +05:30 [INF] Successfully fetched employee records.
+2024-12-11 11:08:23.088 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:08:23.093 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Models.Employee, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:08:23.093 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task - null null
+2024-12-11 11:08:23.104 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task - 200 null application/json; charset=utf-8 354.4837ms
+2024-12-11 11:08:23.109 +05:30 [INF] Executed action TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper) in 79.5254ms
+2024-12-11 11:08:23.112 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:08:23.118 +05:30 [INF] Executed endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:08:23.148 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:08:23.135 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/employee - null null
+2024-12-11 11:08:23.158 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/employee - 200 null application/json; charset=utf-8 164.8163ms
+2024-12-11 11:08:23.158 +05:30 [INF] Route matched with {action = "GetAllTasks", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllTasks() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:08:23.165 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:08:23.172 +05:30 [INF] Received request to fetch all tasks.
+2024-12-11 11:08:23.176 +05:30 [INF] Executing endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:08:23.182 +05:30 [INF] Fetching the all tasks.
+2024-12-11 11:08:23.200 +05:30 [INF] Route matched with {action = "GetAllEmployees", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllEmployees() on controller TaskManager.Controllers.EmployeeController (TaskManagerDapper).
+2024-12-11 11:08:23.205 +05:30 [INF] Successfully fetched the all tasks.[{"id":16,"taskNumber":"TASK-6","title":"string","description":"string","status":"Completed","priority":"string","taskDueDate":"2024-12-04T00:00:00.0000000","employeeid":2,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":20,"taskNumber":"TASK-9","title":"string","description":"string","status":"Yet To Start","priority":"string","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":1,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":21,"taskNumber":"TASK-10","title":"string","description":"string","status":"Yet To Start","priority":"string","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":1,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":22,"taskNumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":17,"taskNumber":"TASK-7","title":"string","description":"Need to update","status":"Blocker","priority":"string","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":6,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":23,"taskNumber":"TASK-12","title":"title","description":"string","status":"Yet To Start","priority":"high","taskDueDate":"2024-12-08T00:00:00.0000000","employeeid":6,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":24,"taskNumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","taskDueDate":"2024-12-09T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"}]
+2024-12-11 11:08:23.215 +05:30 [INF] Employee Controller info started
+2024-12-11 11:08:23.217 +05:30 [INF] Mapping each task to employee task {"id":16,"tasknumber":"TASK-6","title":"string","description":"string","status":"Completed","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1001","$type":"GetTasksDto"}
+2024-12-11 11:08:23.221 +05:30 [INF] Received request to fetch all employees.
+2024-12-11 11:08:23.228 +05:30 [INF] Fetching all employee records.
+2024-12-11 11:08:23.230 +05:30 [INF] Mapping each task to employee task {"id":20,"tasknumber":"TASK-9","title":"string","description":"string","status":"Yet To Start","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1000","$type":"GetTasksDto"}
+2024-12-11 11:08:23.242 +05:30 [INF] Mapping each task to employee task {"id":21,"tasknumber":"TASK-10","title":"string","description":"string","status":"Yet To Start","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1000","$type":"GetTasksDto"}
+2024-12-11 11:08:23.242 +05:30 [INF] Successfully fetched [{"id":1,"empName":"madhu","empId":"P-1000","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":2,"empName":"Nikhi","empId":"P-1001","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":3,"empName":"nivi","empId":"P-1002","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":4,"empName":"priya","empId":"P-1003","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":5,"empName":"cherry","empId":"P-1004","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":6,"empName":"janu","empId":"P-1005","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":7,"empName":"neelima","empId":"P-1006","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":8,"empName":"Neeraja","empId":"P-1007","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":9,"empName":"hema","empId":"P-1008","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":11,"empName":"MP","empId":"P-1009","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"}] employees.
+2024-12-11 11:08:23.255 +05:30 [INF] Successfully fetched employee records.
+2024-12-11 11:08:23.262 +05:30 [INF] Mapping each task to employee task {"id":22,"tasknumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:08:23.263 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Models.Employee, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:08:23.277 +05:30 [INF] Executed action TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper) in 71.3193ms
+2024-12-11 11:08:23.279 +05:30 [INF] Mapping each task to employee task {"id":17,"tasknumber":"TASK-7","title":"string","description":"Need to update","status":"Blocker","priority":"string","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1005","$type":"GetTasksDto"}
+2024-12-11 11:08:23.283 +05:30 [INF] Executed endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:08:23.284 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/employee - null null
+2024-12-11 11:08:23.293 +05:30 [INF] Mapping each task to employee task {"id":23,"tasknumber":"TASK-12","title":"title","description":"string","status":"Yet To Start","priority":"high","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1005","$type":"GetTasksDto"}
+2024-12-11 11:08:23.298 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:08:23.293 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/employee - 200 null application/json; charset=utf-8 158.3357ms
+2024-12-11 11:08:23.313 +05:30 [INF] Mapping each task to employee task {"id":24,"tasknumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:08:23.317 +05:30 [INF] Executing endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:08:23.322 +05:30 [INF] Successfully fetched all tasks.
+2024-12-11 11:08:23.329 +05:30 [INF] Route matched with {action = "GetAllEmployees", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllEmployees() on controller TaskManager.Controllers.EmployeeController (TaskManagerDapper).
+2024-12-11 11:08:23.332 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Dtos.GetTasksDto, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:08:23.338 +05:30 [INF] Employee Controller info started
+2024-12-11 11:08:23.346 +05:30 [INF] Received request to fetch all employees.
+2024-12-11 11:08:23.346 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper) in 174.1509ms
+2024-12-11 11:08:23.353 +05:30 [INF] Fetching all employee records.
+2024-12-11 11:08:23.360 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:08:23.369 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task - 200 null application/json; charset=utf-8 280.8303ms
+2024-12-11 11:08:23.369 +05:30 [INF] Successfully fetched [{"id":1,"empName":"madhu","empId":"P-1000","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":2,"empName":"Nikhi","empId":"P-1001","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":3,"empName":"nivi","empId":"P-1002","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":4,"empName":"priya","empId":"P-1003","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":5,"empName":"cherry","empId":"P-1004","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":6,"empName":"janu","empId":"P-1005","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":7,"empName":"neelima","empId":"P-1006","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":8,"empName":"Neeraja","empId":"P-1007","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":9,"empName":"hema","empId":"P-1008","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":11,"empName":"MP","empId":"P-1009","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"}] employees.
+2024-12-11 11:08:23.382 +05:30 [INF] Successfully fetched employee records.
+2024-12-11 11:08:23.387 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Models.Employee, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:08:23.392 +05:30 [INF] Executed action TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper) in 54.2924ms
+2024-12-11 11:08:23.396 +05:30 [INF] Executed endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:08:23.401 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/employee - 200 null application/json; charset=utf-8 117.5836ms
+2024-12-11 11:09:59.814 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task/newTaskNumber - null null
+2024-12-11 11:09:59.816 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/employee - null null
+2024-12-11 11:09:59.833 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:09:59.814 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task - null null
+2024-12-11 11:09:59.847 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetNewTaskNumber (TaskManagerDapper)'
+2024-12-11 11:09:59.845 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:09:59.856 +05:30 [INF] Route matched with {action = "GetNewTaskNumber", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetNewTaskNumber() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:09:59.851 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:09:59.864 +05:30 [INF] Received request to get a new task number.
+2024-12-11 11:09:59.860 +05:30 [INF] Executing endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:09:59.873 +05:30 [INF] Fetching the new task number.
+2024-12-11 11:09:59.878 +05:30 [INF] Route matched with {action = "GetAllEmployees", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllEmployees() on controller TaskManager.Controllers.EmployeeController (TaskManagerDapper).
+2024-12-11 11:09:59.873 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:09:59.885 +05:30 [INF] Employee Controller info started
+2024-12-11 11:09:59.889 +05:30 [INF] Route matched with {action = "GetAllTasks", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllTasks() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:09:59.893 +05:30 [INF] Received request to fetch all employees.
+2024-12-11 11:09:59.898 +05:30 [INF] Received request to fetch all tasks.
+2024-12-11 11:09:59.903 +05:30 [INF] Fetching all employee records.
+2024-12-11 11:09:59.907 +05:30 [INF] Fetching the all tasks.
+2024-12-11 11:09:59.926 +05:30 [INF] Successfully fetched [{"id":1,"empName":"madhu","empId":"P-1000","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":2,"empName":"Nikhi","empId":"P-1001","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":3,"empName":"nivi","empId":"P-1002","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":4,"empName":"priya","empId":"P-1003","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":5,"empName":"cherry","empId":"P-1004","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":6,"empName":"janu","empId":"P-1005","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":7,"empName":"neelima","empId":"P-1006","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":8,"empName":"Neeraja","empId":"P-1007","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":9,"empName":"hema","empId":"P-1008","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":11,"empName":"MP","empId":"P-1009","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"}] employees.
+2024-12-11 11:09:59.937 +05:30 [INF] Successfully fetched employee records.
+2024-12-11 11:09:59.941 +05:30 [INF] Assigned new task number: TASK-14
+2024-12-11 11:09:59.947 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Models.Employee, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:09:59.951 +05:30 [INF] Successfully fetched the all tasks.[{"id":22,"taskNumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":23,"taskNumber":"TASK-12","title":"title","description":"string","status":"Yet To Start","priority":"high","taskDueDate":"2024-12-08T00:00:00.0000000","employeeid":6,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":24,"taskNumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","taskDueDate":"2024-12-09T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"}]
+2024-12-11 11:09:59.967 +05:30 [INF] Executed action TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper) in 84.2532ms
+2024-12-11 11:09:59.951 +05:30 [INF] Generated new task number: TASK-14
+2024-12-11 11:09:59.984 +05:30 [INF] Executed endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:09:59.985 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/employee - null null
+2024-12-11 11:09:59.996 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/employee - 200 null application/json; charset=utf-8 181.1087ms
+2024-12-11 11:10:00.001 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:09:59.996 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-12-11 11:10:00.053 +05:30 [INF] Executing endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:10:00.063 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetNewTaskNumber (TaskManagerDapper) in 198.4825ms
+2024-12-11 11:10:00.073 +05:30 [INF] Route matched with {action = "GetAllEmployees", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllEmployees() on controller TaskManager.Controllers.EmployeeController (TaskManagerDapper).
+2024-12-11 11:10:00.094 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task/newTaskNumber - null null
+2024-12-11 11:10:00.099 +05:30 [INF] Employee Controller info started
+2024-12-11 11:10:00.114 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:10:00.119 +05:30 [INF] Received request to fetch all employees.
+2024-12-11 11:10:00.094 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetNewTaskNumber (TaskManagerDapper)'
+2024-12-11 11:10:00.127 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetNewTaskNumber (TaskManagerDapper)'
+2024-12-11 11:10:00.130 +05:30 [INF] Fetching all employee records.
+2024-12-11 11:10:00.142 +05:30 [INF] Route matched with {action = "GetNewTaskNumber", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetNewTaskNumber() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:10:00.137 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task/newTaskNumber - 200 null text/plain; charset=utf-8 323.3358ms
+2024-12-11 11:10:00.068 +05:30 [INF] Mapping each task to employee task {"id":22,"tasknumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:10:00.159 +05:30 [INF] Received request to get a new task number.
+2024-12-11 11:10:00.161 +05:30 [INF] Successfully fetched [{"id":1,"empName":"madhu","empId":"P-1000","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":2,"empName":"Nikhi","empId":"P-1001","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":3,"empName":"nivi","empId":"P-1002","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":4,"empName":"priya","empId":"P-1003","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":5,"empName":"cherry","empId":"P-1004","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":6,"empName":"janu","empId":"P-1005","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":7,"empName":"neelima","empId":"P-1006","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":8,"empName":"Neeraja","empId":"P-1007","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":9,"empName":"hema","empId":"P-1008","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":11,"empName":"MP","empId":"P-1009","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"}] employees.
+2024-12-11 11:10:00.166 +05:30 [INF] Fetching the new task number.
+2024-12-11 11:10:00.172 +05:30 [INF] Successfully fetched employee records.
+2024-12-11 11:10:00.179 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Models.Employee, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:10:00.181 +05:30 [INF] Mapping each task to employee task {"id":23,"tasknumber":"TASK-12","title":"title","description":"string","status":"Yet To Start","priority":"high","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1005","$type":"GetTasksDto"}
+2024-12-11 11:10:00.185 +05:30 [INF] Executed action TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper) in 87.5031ms
+2024-12-11 11:10:00.190 +05:30 [INF] Executed endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:10:00.197 +05:30 [INF] Mapping each task to employee task {"id":24,"tasknumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:10:00.198 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/employee - 200 null application/json; charset=utf-8 211.48ms
+2024-12-11 11:10:00.201 +05:30 [INF] Assigned new task number: TASK-14
+2024-12-11 11:10:00.206 +05:30 [INF] Successfully fetched all tasks.
+2024-12-11 11:10:00.215 +05:30 [INF] Generated new task number: TASK-14
+2024-12-11 11:10:00.218 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Dtos.GetTasksDto, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:10:00.223 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-12-11 11:10:00.227 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper) in 329.3163ms
+2024-12-11 11:10:00.231 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetNewTaskNumber (TaskManagerDapper) in 80.7946ms
+2024-12-11 11:10:00.235 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:10:00.240 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetNewTaskNumber (TaskManagerDapper)'
+2024-12-11 11:10:00.245 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task - null null
+2024-12-11 11:10:00.251 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task/newTaskNumber - 200 null text/plain; charset=utf-8 160.9895ms
+2024-12-11 11:10:00.246 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task - 200 null application/json; charset=utf-8 432.0951ms
+2024-12-11 11:10:00.261 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:10:00.201 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/employee - null null
+2024-12-11 11:10:00.269 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:10:00.272 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:10:00.276 +05:30 [INF] Route matched with {action = "GetAllTasks", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllTasks() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:10:00.281 +05:30 [INF] Executing endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:10:00.287 +05:30 [INF] Received request to fetch all tasks.
+2024-12-11 11:10:00.287 +05:30 [INF] Route matched with {action = "GetAllEmployees", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllEmployees() on controller TaskManager.Controllers.EmployeeController (TaskManagerDapper).
+2024-12-11 11:10:00.296 +05:30 [INF] Fetching the all tasks.
+2024-12-11 11:10:00.301 +05:30 [INF] Employee Controller info started
+2024-12-11 11:10:00.309 +05:30 [INF] Received request to fetch all employees.
+2024-12-11 11:10:00.313 +05:30 [INF] Fetching all employee records.
+2024-12-11 11:10:00.319 +05:30 [INF] Successfully fetched the all tasks.[{"id":22,"taskNumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":23,"taskNumber":"TASK-12","title":"title","description":"string","status":"Yet To Start","priority":"high","taskDueDate":"2024-12-08T00:00:00.0000000","employeeid":6,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":24,"taskNumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","taskDueDate":"2024-12-09T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"}]
+2024-12-11 11:10:00.331 +05:30 [INF] Mapping each task to employee task {"id":22,"tasknumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:10:00.334 +05:30 [INF] Successfully fetched [{"id":1,"empName":"madhu","empId":"P-1000","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":2,"empName":"Nikhi","empId":"P-1001","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":3,"empName":"nivi","empId":"P-1002","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":4,"empName":"priya","empId":"P-1003","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":5,"empName":"cherry","empId":"P-1004","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":6,"empName":"janu","empId":"P-1005","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":7,"empName":"neelima","empId":"P-1006","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":8,"empName":"Neeraja","empId":"P-1007","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":9,"empName":"hema","empId":"P-1008","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":11,"empName":"MP","empId":"P-1009","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"}] employees.
+2024-12-11 11:10:00.344 +05:30 [INF] Successfully fetched employee records.
+2024-12-11 11:10:00.346 +05:30 [INF] Mapping each task to employee task {"id":23,"tasknumber":"TASK-12","title":"title","description":"string","status":"Yet To Start","priority":"high","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1005","$type":"GetTasksDto"}
+2024-12-11 11:10:00.353 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Models.Employee, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:10:00.363 +05:30 [INF] Executed action TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper) in 61.9637ms
+2024-12-11 11:10:00.366 +05:30 [INF] Mapping each task to employee task {"id":24,"tasknumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:10:00.371 +05:30 [INF] Executed endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:10:00.376 +05:30 [INF] Successfully fetched all tasks.
+2024-12-11 11:10:00.371 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/employee - null null
+2024-12-11 11:10:00.381 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/employee - 200 null application/json; charset=utf-8 179.5709ms
+2024-12-11 11:10:00.385 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Dtos.GetTasksDto, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:10:00.390 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:10:00.399 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper) in 115.6254ms
+2024-12-11 11:10:00.404 +05:30 [INF] Executing endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:10:00.412 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task - null null
+2024-12-11 11:10:00.412 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:10:00.422 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:10:00.428 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task - 200 null application/json; charset=utf-8 184.8957ms
+2024-12-11 11:10:00.416 +05:30 [INF] Route matched with {action = "GetAllEmployees", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllEmployees() on controller TaskManager.Controllers.EmployeeController (TaskManagerDapper).
+2024-12-11 11:10:00.434 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:10:00.445 +05:30 [INF] Employee Controller info started
+2024-12-11 11:10:00.451 +05:30 [INF] Route matched with {action = "GetAllTasks", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllTasks() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:10:00.455 +05:30 [INF] Received request to fetch all employees.
+2024-12-11 11:10:00.460 +05:30 [INF] Received request to fetch all tasks.
+2024-12-11 11:10:00.466 +05:30 [INF] Fetching all employee records.
+2024-12-11 11:10:00.473 +05:30 [INF] Fetching the all tasks.
+2024-12-11 11:10:00.482 +05:30 [INF] Successfully fetched the all tasks.[{"id":22,"taskNumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":23,"taskNumber":"TASK-12","title":"title","description":"string","status":"Yet To Start","priority":"high","taskDueDate":"2024-12-08T00:00:00.0000000","employeeid":6,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":24,"taskNumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","taskDueDate":"2024-12-09T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"}]
+2024-12-11 11:10:00.482 +05:30 [INF] Successfully fetched [{"id":1,"empName":"madhu","empId":"P-1000","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":2,"empName":"Nikhi","empId":"P-1001","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":3,"empName":"nivi","empId":"P-1002","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":4,"empName":"priya","empId":"P-1003","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":5,"empName":"cherry","empId":"P-1004","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":6,"empName":"janu","empId":"P-1005","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":7,"empName":"neelima","empId":"P-1006","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":8,"empName":"Neeraja","empId":"P-1007","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":9,"empName":"hema","empId":"P-1008","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":11,"empName":"MP","empId":"P-1009","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"}] employees.
+2024-12-11 11:10:00.495 +05:30 [INF] Successfully fetched employee records.
+2024-12-11 11:10:00.503 +05:30 [INF] Mapping each task to employee task {"id":22,"tasknumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:10:00.507 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Models.Employee, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:10:00.521 +05:30 [INF] Executed action TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper) in 79.3566ms
+2024-12-11 11:10:00.524 +05:30 [INF] Mapping each task to employee task {"id":23,"tasknumber":"TASK-12","title":"title","description":"string","status":"Yet To Start","priority":"high","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1005","$type":"GetTasksDto"}
+2024-12-11 11:10:00.532 +05:30 [INF] Executed endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:10:00.546 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/employee - 200 null application/json; charset=utf-8 174.1668ms
+2024-12-11 11:10:00.550 +05:30 [INF] Mapping each task to employee task {"id":24,"tasknumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:10:00.556 +05:30 [INF] Successfully fetched all tasks.
+2024-12-11 11:10:00.561 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Dtos.GetTasksDto, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:10:00.565 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper) in 107.9661ms
+2024-12-11 11:10:00.571 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:10:00.574 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task - null null
+2024-12-11 11:10:00.579 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task - 200 null application/json; charset=utf-8 170.9576ms
+2024-12-11 11:10:00.584 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:10:00.594 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:10:00.603 +05:30 [INF] Route matched with {action = "GetAllTasks", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllTasks() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:10:00.609 +05:30 [INF] Received request to fetch all tasks.
+2024-12-11 11:10:00.615 +05:30 [INF] Fetching the all tasks.
+2024-12-11 11:10:00.626 +05:30 [INF] Successfully fetched the all tasks.[{"id":22,"taskNumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":23,"taskNumber":"TASK-12","title":"title","description":"string","status":"Yet To Start","priority":"high","taskDueDate":"2024-12-08T00:00:00.0000000","employeeid":6,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":24,"taskNumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","taskDueDate":"2024-12-09T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"}]
+2024-12-11 11:10:00.637 +05:30 [INF] Mapping each task to employee task {"id":22,"tasknumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:10:00.646 +05:30 [INF] Mapping each task to employee task {"id":23,"tasknumber":"TASK-12","title":"title","description":"string","status":"Yet To Start","priority":"high","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1005","$type":"GetTasksDto"}
+2024-12-11 11:10:00.656 +05:30 [INF] Mapping each task to employee task {"id":24,"tasknumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:10:00.662 +05:30 [INF] Successfully fetched all tasks.
+2024-12-11 11:10:00.668 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Dtos.GetTasksDto, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:10:00.676 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper) in 66.9524ms
+2024-12-11 11:10:00.683 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:10:00.689 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task - 200 null application/json; charset=utf-8 114.7351ms
+2024-12-11 11:10:32.959 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task/newTaskNumber - null null
+2024-12-11 11:10:32.968 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:10:32.986 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetNewTaskNumber (TaskManagerDapper)'
+2024-12-11 11:10:32.988 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/employee - null null
+2024-12-11 11:10:32.993 +05:30 [INF] Route matched with {action = "GetNewTaskNumber", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetNewTaskNumber() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:10:32.997 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:10:32.988 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task - null null
+2024-12-11 11:10:33.006 +05:30 [INF] Executing endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:10:33.009 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:10:33.033 +05:30 [INF] Route matched with {action = "GetAllEmployees", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllEmployees() on controller TaskManager.Controllers.EmployeeController (TaskManagerDapper).
+2024-12-11 11:10:33.030 +05:30 [INF] Received request to get a new task number.
+2024-12-11 11:10:33.040 +05:30 [INF] Employee Controller info started
+2024-12-11 11:10:33.042 +05:30 [INF] Fetching the new task number.
+2024-12-11 11:10:33.048 +05:30 [INF] Received request to fetch all employees.
+2024-12-11 11:10:33.038 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:10:33.055 +05:30 [INF] Fetching all employee records.
+2024-12-11 11:10:33.060 +05:30 [INF] Route matched with {action = "GetAllTasks", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllTasks() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:10:33.068 +05:30 [INF] Received request to fetch all tasks.
+2024-12-11 11:10:33.081 +05:30 [INF] Fetching the all tasks.
+2024-12-11 11:10:33.093 +05:30 [INF] Successfully fetched [{"id":1,"empName":"madhu","empId":"P-1000","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":2,"empName":"Nikhi","empId":"P-1001","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":3,"empName":"nivi","empId":"P-1002","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":4,"empName":"priya","empId":"P-1003","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":5,"empName":"cherry","empId":"P-1004","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":6,"empName":"janu","empId":"P-1005","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":7,"empName":"neelima","empId":"P-1006","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":8,"empName":"Neeraja","empId":"P-1007","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":9,"empName":"hema","empId":"P-1008","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":11,"empName":"MP","empId":"P-1009","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"}] employees.
+2024-12-11 11:10:33.099 +05:30 [INF] Successfully fetched employee records.
+2024-12-11 11:10:33.100 +05:30 [INF] Assigned new task number: TASK-14
+2024-12-11 11:10:33.102 +05:30 [INF] Successfully fetched the all tasks.[{"id":22,"taskNumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":24,"taskNumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","taskDueDate":"2024-12-09T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"}]
+2024-12-11 11:10:33.122 +05:30 [INF] Generated new task number: TASK-14
+2024-12-11 11:10:33.118 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Models.Employee, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:10:33.134 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-12-11 11:10:33.134 +05:30 [INF] Mapping each task to employee task {"id":22,"tasknumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:10:33.146 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetNewTaskNumber (TaskManagerDapper) in 136.0377ms
+2024-12-11 11:10:33.136 +05:30 [INF] Executed action TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper) in 97.6357ms
+2024-12-11 11:10:33.155 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetNewTaskNumber (TaskManagerDapper)'
+2024-12-11 11:10:33.156 +05:30 [INF] Mapping each task to employee task {"id":24,"tasknumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:10:33.194 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task/newTaskNumber - 200 null text/plain; charset=utf-8 226.6283ms
+2024-12-11 11:10:33.216 +05:30 [INF] Successfully fetched all tasks.
+2024-12-11 11:10:33.169 +05:30 [INF] Executed endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:10:33.259 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Dtos.GetTasksDto, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:10:33.272 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/employee - 200 null application/json; charset=utf-8 283.2726ms
+2024-12-11 11:10:33.276 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper) in 208.4088ms
+2024-12-11 11:10:33.281 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task - null null
+2024-12-11 11:10:33.285 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:10:33.290 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:10:33.295 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task - 200 null application/json; charset=utf-8 306.9784ms
+2024-12-11 11:10:33.303 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:10:33.165 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/employee - null null
+2024-12-11 11:10:33.319 +05:30 [INF] Route matched with {action = "GetAllTasks", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllTasks() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:10:33.326 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:10:33.330 +05:30 [INF] Received request to fetch all tasks.
+2024-12-11 11:10:33.335 +05:30 [INF] Executing endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:10:33.337 +05:30 [INF] Fetching the all tasks.
+2024-12-11 11:10:33.345 +05:30 [INF] Route matched with {action = "GetAllEmployees", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllEmployees() on controller TaskManager.Controllers.EmployeeController (TaskManagerDapper).
+2024-12-11 11:10:33.202 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task/newTaskNumber - null null
+2024-12-11 11:10:33.355 +05:30 [INF] Employee Controller info started
+2024-12-11 11:10:33.363 +05:30 [INF] Received request to fetch all employees.
+2024-12-11 11:10:33.368 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:10:33.370 +05:30 [INF] Fetching all employee records.
+2024-12-11 11:10:33.379 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetNewTaskNumber (TaskManagerDapper)'
+2024-12-11 11:10:33.373 +05:30 [INF] Successfully fetched the all tasks.[{"id":22,"taskNumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":24,"taskNumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","taskDueDate":"2024-12-09T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"}]
+2024-12-11 11:10:33.392 +05:30 [INF] Route matched with {action = "GetNewTaskNumber", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetNewTaskNumber() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:10:33.399 +05:30 [INF] Received request to get a new task number.
+2024-12-11 11:10:33.407 +05:30 [INF] Fetching the new task number.
+2024-12-11 11:10:33.411 +05:30 [INF] Successfully fetched [{"id":1,"empName":"madhu","empId":"P-1000","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":2,"empName":"Nikhi","empId":"P-1001","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":3,"empName":"nivi","empId":"P-1002","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":4,"empName":"priya","empId":"P-1003","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":5,"empName":"cherry","empId":"P-1004","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":6,"empName":"janu","empId":"P-1005","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":7,"empName":"neelima","empId":"P-1006","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":8,"empName":"Neeraja","empId":"P-1007","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":9,"empName":"hema","empId":"P-1008","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":11,"empName":"MP","empId":"P-1009","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"}] employees.
+2024-12-11 11:10:33.421 +05:30 [INF] Successfully fetched employee records.
+2024-12-11 11:10:33.429 +05:30 [INF] Mapping each task to employee task {"id":22,"tasknumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:10:33.438 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Models.Employee, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:10:33.446 +05:30 [INF] Executed action TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper) in 93.4709ms
+2024-12-11 11:10:33.453 +05:30 [INF] Executed endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:10:33.455 +05:30 [INF] Mapping each task to employee task {"id":24,"tasknumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:10:33.466 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/employee - 200 null application/json; charset=utf-8 301.1277ms
+2024-12-11 11:10:33.469 +05:30 [INF] Successfully fetched all tasks.
+2024-12-11 11:10:33.454 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/employee - null null
+2024-12-11 11:10:33.482 +05:30 [INF] Assigned new task number: TASK-14
+2024-12-11 11:10:33.482 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Dtos.GetTasksDto, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:10:33.498 +05:30 [INF] Generated new task number: TASK-14
+2024-12-11 11:10:33.505 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper) in 177.2499ms
+2024-12-11 11:10:33.510 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-12-11 11:10:33.515 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task - null null
+2024-12-11 11:10:33.521 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetNewTaskNumber (TaskManagerDapper) in 122.7018ms
+2024-12-11 11:10:33.527 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:10:33.533 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetNewTaskNumber (TaskManagerDapper)'
+2024-12-11 11:10:33.540 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:10:33.546 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task/newTaskNumber - 200 null text/plain; charset=utf-8 344.161ms
+2024-12-11 11:10:33.552 +05:30 [INF] Route matched with {action = "GetAllTasks", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllTasks() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:10:33.515 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:10:33.562 +05:30 [INF] Received request to fetch all tasks.
+2024-12-11 11:10:33.567 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task - 200 null application/json; charset=utf-8 286.4446ms
+2024-12-11 11:10:33.569 +05:30 [INF] Fetching the all tasks.
+2024-12-11 11:10:33.492 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:10:33.589 +05:30 [INF] Executing endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:10:33.597 +05:30 [INF] Successfully fetched the all tasks.[{"id":22,"taskNumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":24,"taskNumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","taskDueDate":"2024-12-09T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"}]
+2024-12-11 11:10:33.602 +05:30 [INF] Route matched with {action = "GetAllEmployees", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllEmployees() on controller TaskManager.Controllers.EmployeeController (TaskManagerDapper).
+2024-12-11 11:10:33.609 +05:30 [INF] Employee Controller info started
+2024-12-11 11:10:33.615 +05:30 [INF] Received request to fetch all employees.
+2024-12-11 11:10:33.618 +05:30 [INF] Mapping each task to employee task {"id":22,"tasknumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:10:33.621 +05:30 [INF] Fetching all employee records.
+2024-12-11 11:10:33.634 +05:30 [INF] Mapping each task to employee task {"id":24,"tasknumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:10:33.634 +05:30 [INF] Successfully fetched [{"id":1,"empName":"madhu","empId":"P-1000","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":2,"empName":"Nikhi","empId":"P-1001","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":3,"empName":"nivi","empId":"P-1002","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":4,"empName":"priya","empId":"P-1003","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":5,"empName":"cherry","empId":"P-1004","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":6,"empName":"janu","empId":"P-1005","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":7,"empName":"neelima","empId":"P-1006","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":8,"empName":"Neeraja","empId":"P-1007","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":9,"empName":"hema","empId":"P-1008","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":11,"empName":"MP","empId":"P-1009","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"}] employees.
+2024-12-11 11:10:33.638 +05:30 [INF] Successfully fetched all tasks.
+2024-12-11 11:10:33.648 +05:30 [INF] Successfully fetched employee records.
+2024-12-11 11:10:33.653 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Dtos.GetTasksDto, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:10:33.658 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Models.Employee, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:10:33.663 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper) in 100.4867ms
+2024-12-11 11:10:33.665 +05:30 [INF] Executed action TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper) in 56.9303ms
+2024-12-11 11:10:33.667 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:10:33.668 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task - null null
+2024-12-11 11:10:33.668 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/employee - null null
+2024-12-11 11:10:33.677 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task - 200 null application/json; charset=utf-8 166.4392ms
+2024-12-11 11:10:33.679 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:10:33.683 +05:30 [INF] CORS policy execution successful.
+2024-12-11 11:10:33.691 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:10:33.696 +05:30 [INF] Executing endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:10:33.701 +05:30 [INF] Route matched with {action = "GetAllTasks", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllTasks() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:10:33.705 +05:30 [INF] Route matched with {action = "GetAllEmployees", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllEmployees() on controller TaskManager.Controllers.EmployeeController (TaskManagerDapper).
+2024-12-11 11:10:33.708 +05:30 [INF] Received request to fetch all tasks.
+2024-12-11 11:10:33.711 +05:30 [INF] Employee Controller info started
+2024-12-11 11:10:33.713 +05:30 [INF] Fetching the all tasks.
+2024-12-11 11:10:33.718 +05:30 [INF] Received request to fetch all employees.
+2024-12-11 11:10:33.672 +05:30 [INF] Executed endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:10:33.726 +05:30 [INF] Fetching all employee records.
+2024-12-11 11:10:33.734 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/employee - 200 null application/json; charset=utf-8 280.8641ms
+2024-12-11 11:10:33.743 +05:30 [INF] Successfully fetched the all tasks.[{"id":22,"taskNumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","taskDueDate":"2024-12-06T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"},{"id":24,"taskNumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","taskDueDate":"2024-12-09T00:00:00.0000000","employeeid":5,"employee":null,"logEntries":null,"$type":"EmployeeTask"}]
+2024-12-11 11:10:33.747 +05:30 [INF] Successfully fetched [{"id":1,"empName":"madhu","empId":"P-1000","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":2,"empName":"Nikhi","empId":"P-1001","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":3,"empName":"nivi","empId":"P-1002","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":4,"empName":"priya","empId":"P-1003","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":5,"empName":"cherry","empId":"P-1004","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":6,"empName":"janu","empId":"P-1005","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":7,"empName":"neelima","empId":"P-1006","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":8,"empName":"Neeraja","empId":"P-1007","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":9,"empName":"hema","empId":"P-1008","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"},{"id":11,"empName":"MP","empId":"P-1009","employeeTasks":null,"employeeLogEntries":null,"$type":"Employee"}] employees.
+2024-12-11 11:10:33.753 +05:30 [INF] Successfully fetched employee records.
+2024-12-11 11:10:33.760 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Models.Employee, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:10:33.761 +05:30 [INF] Mapping each task to employee task {"id":22,"tasknumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:10:33.770 +05:30 [INF] Executed action TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper) in 59.9202ms
+2024-12-11 11:10:33.777 +05:30 [INF] Executed endpoint 'TaskManager.Controllers.EmployeeController.GetAllEmployees (TaskManagerDapper)'
+2024-12-11 11:10:33.786 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/employee - 200 null application/json; charset=utf-8 118.1693ms
+2024-12-11 11:10:33.786 +05:30 [INF] Mapping each task to employee task {"id":24,"tasknumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:10:33.796 +05:30 [INF] Successfully fetched all tasks.
+2024-12-11 11:10:33.802 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Dtos.GetTasksDto, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:10:33.808 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper) in 99.4179ms
+2024-12-11 11:10:33.811 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:10:33.816 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task - 200 null application/json; charset=utf-8 147.8718ms
+2024-12-11 11:48:06.457 +05:30 [INF] Now listening on: https://localhost:7101
+2024-12-11 11:48:06.472 +05:30 [INF] Now listening on: http://localhost:5100
+2024-12-11 11:48:06.624 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-11 11:48:06.627 +05:30 [INF] Hosting environment: Development
+2024-12-11 11:48:06.630 +05:30 [INF] Content root path: C:\Users\madhupriya.r\Documents\TaskManager\task-manager-madhupriya340\TaskManagerBE_Dotnet_Dapper
+2024-12-11 11:48:07.304 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/swagger/index.html - null null
+2024-12-11 11:48:07.656 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/swagger/index.html - 200 null text/html;charset=utf-8 357.3239ms
+2024-12-11 11:48:07.672 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/_framework/aspnetcore-browser-refresh.js - null null
+2024-12-11 11:48:07.683 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/_vs/browserLink - null null
+2024-12-11 11:48:07.688 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 16.7168ms
+2024-12-11 11:48:07.751 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/_vs/browserLink - 200 null text/javascript; charset=UTF-8 67.6884ms
+2024-12-11 11:48:07.829 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/swagger/v1/swagger.json - null null
+2024-12-11 11:48:07.864 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 35.346ms
+2024-12-11 11:48:13.414 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7101/api/v1/task - null null
+2024-12-11 11:48:13.437 +05:30 [INF] Executing endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:48:13.537 +05:30 [INF] Route matched with {action = "GetAllTasks", controller = "Task"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllTasks() on controller TaskManagerDapper.Controllers.TaskController (TaskManagerDapper).
+2024-12-11 11:48:13.892 +05:30 [INF] Received request to fetch all tasks.
+2024-12-11 11:48:13.903 +05:30 [INF] Fetching the all tasks.
+2024-12-11 11:48:14.955 +05:30 [INF] Successfully fetched the all tasks.["Task ID: 22, Task Number: TASK-11, Title: string, Status: Yet To Start, Priority: Low, Due Date: 12/6/2024 12:00:00 AM, Employee: Not Assigned","Task ID: 24, Task Number: TASK-13, Title: tasknew, Status: Yet To Start, Priority: High, Due Date: 12/9/2024 12:00:00 AM, Employee: Not Assigned"]
+2024-12-11 11:48:15.099 +05:30 [INF] Mapping each task to employee task {"id":22,"tasknumber":"TASK-11","title":"string","description":"string","status":"Yet To Start","priority":"Low","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:48:15.115 +05:30 [INF] Mapping each task to employee task {"id":24,"tasknumber":"TASK-13","title":"tasknew","description":"string","status":"Yet To Start","priority":"High","duedate":"0001-01-01T00:00:00.0000000","empId":"P-1004","$type":"GetTasksDto"}
+2024-12-11 11:48:15.122 +05:30 [INF] Successfully fetched all tasks.
+2024-12-11 11:48:15.152 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskManagerDapper.Dtos.GetTasksDto, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-11 11:48:15.214 +05:30 [INF] Executed action TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper) in 1661.5922ms
+2024-12-11 11:48:15.221 +05:30 [INF] Executed endpoint 'TaskManagerDapper.Controllers.TaskController.GetAllTasks (TaskManagerDapper)'
+2024-12-11 11:48:15.228 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7101/api/v1/task - 200 null application/json; charset=utf-8 1816.4721ms

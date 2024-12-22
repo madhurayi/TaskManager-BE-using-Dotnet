@@ -1,0 +1,6 @@
+@TaskManagerDapper_HostAddress = http://localhost:5100
+
+GET {{TaskManagerDapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

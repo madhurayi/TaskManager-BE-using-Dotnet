@@ -1,0 +1,191 @@
+[
+  {
+    "ContainingType": "TaskManager.Controllers.EmployeeController",
+    "Method": "GetAllEmployees",
+    "RelativePath": "api/v1/employee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManager.Controllers.EmployeeController",
+    "Method": "CreateEmployee",
+    "RelativePath": "api/v1/employee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createEmployeeDto",
+        "Type": "TaskManagerDapper.Dtos.CreateEmployeeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManagerDapper.Controllers.TaskLogTimeEntriesController",
+    "Method": "CreateEntry",
+    "RelativePath": "api/v1/logentries",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createLogEntryDto",
+        "Type": "TaskManagerDapper.Dtos.CreateLogEntryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManagerDapper.Controllers.TaskLogTimeEntriesController",
+    "Method": "GetAllEntriesByTaskNumber",
+    "RelativePath": "api/v1/logentries/{taskNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManagerDapper.Controllers.TaskController",
+    "Method": "GetAllTasks",
+    "RelativePath": "api/v1/task",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManagerDapper.Controllers.TaskController",
+    "Method": "CreateTask",
+    "RelativePath": "api/v1/task",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createTaskDto",
+        "Type": "TaskManagerDapper.Dtos.CreateTaskDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManagerDapper.Controllers.TaskController",
+    "Method": "DeleteTask",
+    "RelativePath": "api/v1/task",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManagerDapper.Controllers.TaskController",
+    "Method": "GetTaskByTaskNumber",
+    "RelativePath": "api/v1/task/{taskNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManagerDapper.Controllers.TaskController",
+    "Method": "UpdateTaskByTaskNumber",
+    "RelativePath": "api/v1/task/{taskNumber}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateTaskDto",
+        "Type": "TaskManagerDapper.Dtos.UpdateTaskDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManagerDapper.Controllers.TaskController",
+    "Method": "UpdateTaskStatusByTaskNumber",
+    "RelativePath": "api/v1/task/changestatus/{taskNumber}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManagerDapper.Controllers.TaskController",
+    "Method": "GetNewTaskNumber",
+    "RelativePath": "api/v1/task/newTaskNumber",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManagerDapper.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[TaskManagerDapper.WeatherForecast, TaskManagerDapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
